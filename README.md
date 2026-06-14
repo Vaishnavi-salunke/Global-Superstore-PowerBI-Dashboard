@@ -1,4 +1,4 @@
-📊 Global Superstore Power BI Dashboard
+# 📊 Global Superstore Power BI Dashboard
 
 ## Overview
 
