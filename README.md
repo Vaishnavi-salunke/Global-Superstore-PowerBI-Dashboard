@@ -1,4 +1,4 @@
-<img width="1115" height="628" alt="customer and produt insights" src="https://github.com/user-attachments/assets/7c75375a-967e-4004-88cd-01ca174a49d5" /><img width="1122" height="631" alt="Executive Overview" src="https://github.com/user-attachments/assets/8685f54e-c6b6-4894-9c56-412162ba0472" /># 📊 Global Superstore Power BI Dashboard
+📊 Global Superstore Power BI Dashboard
 
 ## Overview
 
